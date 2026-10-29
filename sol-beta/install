@@ -1,0 +1,3 @@
+#!/bin/sh
+# Sol moved to https://sol.matterfold.tech (sol-mif/sol-dev#308); this old address runs the install from there.
+curl -fsSL https://sol.matterfold.tech/install | sh
